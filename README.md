@@ -1,2 +1,2 @@
 # k8s_kubeadm_install
-Install k8s  local kubeadm cluster in centos by oralce virtualbox
+Use vagrant install k8s local kubeadm cluster in centos by oralce virtualbox provider
